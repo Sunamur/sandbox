@@ -51,36 +51,3 @@ for LIST in counter:
 
 
 
-
-
-#DUMP ALL THE WAY DOWN THERE, PAY NO ATTENTION
-
-        
-#def print_list(the_list):
-#	for LIST in the_list:
-#		print(LIST)
-#		
-#def longread(length_count, quantity_count):
-#	fin = open('words.txt')
-#	counter = 0
-#	for line in fin:
-#		while counter<quantity_count:
-#			word=fin.readline().strip()
-#			if len(word)==length_count:
-#				print (word)
-#				counter = counter+1
-#				
-#				
-#reading from formatted list to lists
-#import codecs
-#fin=codecs.open('slova.txt', encoding='utf-8')
-#org_list=[]
-#pro_list=[]
-#soc_list=[]
-#for line in fin:
-#	word=fin.readline().strip()
-#	if word != "STOP":
-#		org_list.append(word)
-#
-#
-
